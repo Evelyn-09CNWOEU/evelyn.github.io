@@ -12,7 +12,7 @@
 -segundaria completada en el colegio Nuestra Señora De los Dolores 
 
 
-CURSOS ACTUALES 
+CURSOS
 - Quimica 2
 - matematica 2
 - introduccion a la filosofia
