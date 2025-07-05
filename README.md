@@ -8,7 +8,7 @@
  - EDUCACION 
 
 
-- Primraia echa en el colegio santa dorotea .
+- Primaria echa en el colegio santa dorotea .
 -segundaria completada en el colegio Nuestra Señora De los Dolores 
 
 
