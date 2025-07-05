@@ -2,4 +2,21 @@
 
 
 ¿QUIÉN SOY ?
-Mi Nombre es Evelyn Quimper Fernadez , tengo 18 años y soy estudiante de la carrera de Ingeneria industrial en la universidad Catolica San Pablo . 
+ - Mi Nombre es Evelyn Quimper Fernadez , tengo 18 años y soy estudiante de la carrera de Ingeneria industrial en la universidad Catolica San Pablo . 
+
+
+ - EDUCACION 
+
+
+- Primraia echa en el colegio santa dorotea .
+-segundaria completada en el colegio Nuestra Señora De los Dolores 
+
+
+CURSOS ACTUALES 
+- Quimica 2
+- matematica 2
+- introduccion a la filosofia
+- infomatica
+- metodologia del estudio
+- economiga general
+  
