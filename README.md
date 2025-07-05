@@ -19,4 +19,7 @@ CURSOS
 - infomatica
 - metodologia del estudio
 - economiga general
-  
+
+
+  CONTACTO
+  - https://www.linkedin.com/in/evelyn-yuli-ana-quimper-fernandez
